@@ -1,0 +1,16 @@
+img {
+    width: 100px;
+    border: blue 4px solid;
+    padding: 0px 2px 4px 8px;
+    margin: 0px 2px 4px 8px;
+    background-color: red;
+}
+h2,
+p {
+    border: blue 3px solid;
+}
+
+strong,
+a{
+    border: lime 3px solid;
+}

@@ -1,0 +1,37 @@
+body{
+    background: #fff;
+}
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+.left-panel {
+    margin: 10px;
+    width: 50%;
+    padding-right: 10px;
+    
+}
+.right-panel {
+    margin: -250px;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+h1.right-panel {
+    font-weight: none;
+    font-size: 10px;
+}
+  
+  .box {
+    transition: box-shadow .3s;
+    width: 543px;
+    height: 287px;
+    margin: -8px;
+    border: 1px solid #ccc;
+    background: #fff;
+    float: left;
+}
+  .box:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  }
